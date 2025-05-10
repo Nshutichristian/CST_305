@@ -1,5 +1,5 @@
 """
-Programmer: [Your Name]
+Programmer: Christian Nshuti Manzi
 Packages Used: numpy, scipy, matplotlib
 Approach: Solves a simple ODE using SciPy and visualizes the solution as a plot image.
 """
